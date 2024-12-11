@@ -2,7 +2,7 @@
 
 # Definir las variables de conexión a MySQL
 MYSQL_USER="Cache3815"  # Usuario de MySQL
-MYSQL_PASSWORD="z1fVrI&ZVfyonsZ"  # Contraseña de MySQL
+MYSQL_PASSWORD="P6l^SoETXOIChU@&4XgA"  # Contraseña de MySQL
 DATABASE_NAME="CarConnect"  # Nombre de la base de datos a crear
 
 # Ingresar al shell de MySQL y crear la base de datos
